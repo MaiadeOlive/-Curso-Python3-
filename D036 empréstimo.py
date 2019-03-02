@@ -1,4 +1,4 @@
-casa = float(input('\033[1;4mQual o valor da casa que você gostaria de comprar? R$ \033[m'))
+réscasa = float(input('\033[1;4mQual o valor da casa que você gostaria de comprar? R$ \033[m'))
 salario = float(input('\033[1;4mQual o valor do seu salário? R$\033[m'))
 anos = int(input('\033[1;4mEm quantos anos pretende pagar? \033[m'))
 parcela = casa/(anos * 12)
