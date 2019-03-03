@@ -8,7 +8,7 @@
 # -Aula dos Exercícios [36 a 71]
 [https://www.youtube.com/watch?v=j9bYDjaAYzw&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye]
 
-# -Aula dos Exercícios [73 a 104]
+# -Aula dos Exercícios [72 a 104]
 [https://www.youtube.com/watch?v=0LB3FSfjvao&list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH]
 
 # -Lista de Exercícios Completa-
